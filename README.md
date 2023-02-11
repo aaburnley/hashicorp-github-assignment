@@ -25,6 +25,8 @@ This repository (repo) was created for a HashiCorp writing assignment. The assig
  
  The main challenge I faced was making the time to do this assignment. When I connected with Fallon and recieved the assignment, it was right before I was going to go back to Seattle for my cousin's funeral. I was out for work 2 days and took Wednesday to get back home. Then I had to catch up on emails things pending while I was away. So I didn't start the project until after I finished work on Friday. 
  
+ Another challenge was that GitHub wouldn't allow me to fork the repo because I am also the owner. Since I couldn't fork the repo, I couldn't clone my fork as a local copy to VS code and set the upstreams so that I could create a pull request. Instead I made a change on the doc on the GitHub website, and instead of commite that change directly to the main branch, I created a new branch to start the pull request.
+ 
  ## About me
   I am originally from Seattle, but now I live in Los Angeles, CA. I love writing and majored in English Literature with the intent to become a technical writer. In my free time I like trying new restaurants and traveling. So far, my favorite travel desitiation has been Sydney, Austraila. 
 
