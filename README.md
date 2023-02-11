@@ -19,6 +19,8 @@ This repository (repo) was created for a HashiCorp writing assignment. The assig
  
  I compeleted the introduction, learning objectives, challenges, and about me section. Then I began to work on the assignment with plans to come back the *How I approached this assignment* section to write more about the process after completing the assignment.
  
+ Next, I created the file and added it to the repo on the GitHub site. I named it *git-commands-comparison* since the instructions didn't include a preffered name. 
+ 
  ## Challenges
  
  The main challenge I faced was making the time to do this assignment. When I connected with Fallon and recieved the assignment, it was right before I was going to go back to Seattle for my cousin's funeral. I was out for work 2 days and took Wednesday to get back home. Then I had to catch up on emails things pending while I was away. So I didn't start the project until after I finished work on Friday. 
