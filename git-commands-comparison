@@ -1,3 +1,10 @@
+---
+title: How to understand git commands
+description: This document explains the differences between the git commands push, pull, and fetch.
+author: aaburnley
+date: 2/10/2023
+---
+
 ## Content
 
 ### What is the difference between push, pull, and fetch?
