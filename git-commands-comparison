@@ -1,15 +1,18 @@
 ---
-title: How to use git commands to view and update tracking branches
-description: This document explains how to use git commands to update tracking branches and the differences between those git commands (push, pull, and fetch).
+title: How to use git commands to view changes and update git branches
+description: This document explains how to use git commands to update tracking branches and the differences between those git commands (push, fetch, merge, and pull).
 author: aaburnley
 date: 2/10/2023
 ---
 
-# How to use git commands to veiw and update tracking branches
+# How to use git commands to view changes and update git branches
 
-## Git commands uses to  view and update tracking branches
+As you work with code using git, you'll need to send changes you've made on your local branch to a master repository (repo) or vice versa. A tracking branch connects your local branch to the master repo so that git knows where to push your changes to.
+There are several git commands you'll use to view or get changes into a tracking branch and then added to the master repo. This article describes those git commands you'll use and the differences between those commands.
 
-- `git push`: This command sends changes from a local branch to a remote repository (repo).
+## Git commands used to view and update tracking branches
+
+- `git push`: This command sends changes from a local branch to a remote repo.
 - `git fetch`: This command gets changes from a remote repo into a tracking branch.
 - `get merge`: This command adds (merges) changes from the master branch into a local branch
 - `git pull`: This command gets changes from a remote branch into a tracking branch then merges them into a local branch
