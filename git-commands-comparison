@@ -21,7 +21,7 @@ There are several git commands you'll use to view or get changes into a tracking
 
 `git push` and `git pull` are often described as similar commands. But, this isn't entirely true because the `git push` command does one action. `git push` takes your current branch and checks to see whether or not there is a tracking branch for a remote repository connected. If so, your changes are taken from your local branch and pushed to the remote branch. In this way, Git shares the code with a remote repository. Another way you can think of the action this command does: "make the remote branch match my local branch." 
 
-However, the `git push` command will fail if your remote branch has veered away from your local branch, meaning not all of the commits made in the remote branch are in your local branch. When this happens, it causes a merge conflict, and you will be unable to push your commits to the remote branch. You must match your local branch to the remote branch when this happens. You can do this in two ways:
+However, the `git push` command will fail if your remote branch has veered away from your local branch, meaning not all of the commits made in the remote branch are in your local branch. When this happens, it causes a merge conflict, and you'll be unable to push your commits to the remote branch. You must get your local branch to match the remote branch when this happens. You can do this in two ways:
 - Use one command, `git pull` or 
 - Use two commands; you can first use `git fetch` followed by `git merge`.
 
